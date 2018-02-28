@@ -15,9 +15,9 @@ Video File: 【悠木碧 花江夏樹 安元洋貴 石川由依】超ネタバ�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 474
-Active Line: 496
-Video Position: 46085
+Scroll Position: 487
+Active Line: 508
+Video Position: 47063
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -521,4 +521,16 @@ Dialogue: 0,0:25:21.81,0:25:28.95,Default,,0,0,0,,就這樣過了兩年，進入
 Dialogue: 0,0:25:28.95,0:25:30.84,Default,,0,0,0,,「太好了！成為了 Happy End！」的樣子
 Dialogue: 0,0:25:31.95,0:25:33.26,Default,,0,0,0,,偶然真是可怕呢
 Dialogue: 0,0:25:34.61,0:25:37.69,Default,,0,0,0,,有人覺得那不是 Happy End 吧？
-Dialogue: 0,0:25:37.69,0:25:39.69,Default,,0,0,0,,
+Dialogue: 0,0:25:38.27,0:25:38.91,Default,,0,0,0,,即使是那樣子
+Dialogue: 0,0:25:38.91,0:25:43.07,Default,,0,0,0,,安：覺得搞不好就會一直重複那些事呢\N斎：對對對
+Dialogue: 0,0:25:43.57,0:25:46.26,Default,,0,0,0,,但是也說了「期待 Pod 們」 吧
+Dialogue: 0,0:25:46.43,0:25:49.38,Default,,0,0,0,,也不知道他們會不會醒回來呢\N(音樂會朗讀劇有交待之後的事，就是醒回來了)
+Dialogue: 0,0:25:49.38,0:25:51.88,Default,,0,0,0,,唔，那就不如他們就這樣醒了，
+Dialogue: 0,0:25:51.88,0:25:54.98,Default,,0,0,0,,然後就是一些學園系作品的故事吧？
+Dialogue: 0,0:25:54.98,0:25:56.96,Default,,0,0,0,,「遲到了遲到了！」般的
+Dialogue: 0,0:25:56.96,0:25:58.96,Default,,0,0,0,,悠：超想看！\N安：想看嗎！？
+Dialogue: 0,0:26:00.17,0:26:01.99,Default,,0,0,0,,「在捨橡果時就遲到了⋯」
+Dialogue: 0,0:26:01.99,0:26:04.65,Default,,0,0,0,,很可愛！！！
+Dialogue: 0,0:26:04.65,0:26:05.53,Default,,0,0,0,,這是什麼呀！？
+Dialogue: 0,0:26:07.09,0:26:10.33,Default,,0,0,0,,
+Dialogue: 0,0:26:10.33,0:26:12.33,Default,,0,0,0,,
